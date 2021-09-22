@@ -28,7 +28,11 @@ Go to the project directory
 Install dependencies
 
 ```bash
+<<<<<<< HEAD
   pip install requirements.txt
+=======
+  pip install -r requirements.txt
+>>>>>>> 5438b6bc7e4006dcbb2494bde81c1b16f006a7f9
 ```
 
 Run the Bot
